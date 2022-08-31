@@ -1,0 +1,6 @@
+if game.PlaceId == 10347946161 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SzutiDC/Scripts/main/Rat%20Washing%20Tycoon%20v1.0"))()
+
+    elseif game.PlaceId == 8750997647 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/SzutiDC/Scripts/main/Rat%20Washing%20Tycoon%20v1.0"))()
+end
